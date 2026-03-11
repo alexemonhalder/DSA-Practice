@@ -24,10 +24,10 @@ DSA-Solutions/
 └── patterns/                 # Notes and index of coding patterns (links to solutions)
 ```
 
-> Each folder contains well-documented Java solutions with:
-> - Problem description
-> - Approach explanation
-> - Time & space complexity
+Each folder contains well-documented Java solutions with:
+- Problem description
+- Approach explanation
+- Time & space complexity
 
 ---
 
