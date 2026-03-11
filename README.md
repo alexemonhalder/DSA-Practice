@@ -1,8 +1,12 @@
-## 💻 DSA-Solutions by Alex Emon Halder
+Welcome to my Data Structures and Algorithms (DSA) repository. This repository contains my solutions to classic and interview-focused problems, implemented in both **Java and Python**. 
 
-Welcome to my Data Structures and Algorithms (DSA) repository.
-This repository contains my Java solutions to classic and interview-focused problems.
-It is designed to showcase my problem-solving skills, coding patterns knowledge, and technical organization, making it recruiter-friendly.
+I initially began solving problems using Java and am now continuing my DSA practice using Python while strengthening my understanding of core programming concepts.
+
+This repository is intended to:
+- Showcase my problem-solving skills
+- Demonstrate knowledge of common coding patterns and data structures
+- Track my learning and consistency in DSA practice
+- Maintain a clean and organized codebase that is easy for recruiters and collaborators to navigate
 
 
 Repository structure:
